@@ -58,3 +58,44 @@ line-height: 26px; /* 162.5% */
     justify-content: right;
     
 }
+      /* 2nd part */
+
+
+
+.previous-years{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}      
+.previous-years-titel{
+    max-width: 280px;
+    width: 70%;
+    color:  #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0px 450px 0px 0px;
+    text-align: left;
+}
+.previous-years-descripsion{
+    max-width: 415px;
+    width: 90%;
+    color: var(--Dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.previous-years-chakbox{
+    list-style:none;
+}
+#icon{
+    color: #16D887;
+    
+}
+.previous-years-img{
+    margin: 140px 0px 0px 280px;
+}
+.previous-years-data{
+    text-align: left;
+}
